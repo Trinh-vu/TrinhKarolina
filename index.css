@@ -1,0 +1,59 @@
+
+.carousel-item {
+    text-align: center;
+    background-color: aqua;
+}
+
+body {
+  height: 80vh;
+  width: 100vw;
+  background-image: url(./pics/index-image.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.main-carousel {
+  width: 100%;
+  padding: 50px 275px 0;
+}
+.carousel-item {
+  padding: 50px 0;
+  border-radius: 14px;
+  background-color: #215DA3;
+  color: #FFB8C1;
+
+}
+.item-one {
+  background-color: #215DA3;
+  color: #FFB8C1;
+
+}
+
+.main-form {
+  width: 100%;
+
+}
+.main-email-form {
+  width: 100%;
+}
+
+.index-form {
+  margin: auto;
+}
+
+.index-form-blue {
+  margin: 50px auto;
+  height: 180px;
+  background-color: #99D5C9;
+
+}
+
+.email-form { 
+  display: flex;
+  flex-direction: column;
+}
+
+.form-control {
+  margin: 0 !important;
+  margin-bottom: 20px !important;
+}
