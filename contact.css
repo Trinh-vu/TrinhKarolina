@@ -170,10 +170,11 @@ nav {
 
 .showcase h1{
   font-size: 40px;
+  margin: 20px;
 }
 
 .showcase p{
-  margin: 20px 0;
+  margin: 20px;
 }
 
 .showcase .grid{
@@ -429,11 +430,12 @@ transform: skewY(-3deg);
 }
 
 .stories-carousel-item-text {
-  padding: 40px;
+  padding: 15px;
   color: white;
-  font-size: 30px;
+  font-size: 20px;
 }
 .stories-carousel-item-image {
   border-radius: 14px 0 0 14px;
   height: 500px;
 }
+

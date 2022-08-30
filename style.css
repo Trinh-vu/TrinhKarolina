@@ -240,17 +240,7 @@ body {
 
 }
 
-.hero1-title {
-  font-size: 3rem;
-  font-weight: 600;
-  margin-bottom: 0;
-}
-.hero1-subtitle {
-  font-size: 1.5rem;
-  font-weight: 200;
-  margin: 0 300px;
 
-}
 .hero-button {
   background-color: #393939;
   color: white;
@@ -304,27 +294,27 @@ body {
   margin: 50px;
 }
 .hero1-title {
-  padding: 30px 30px;
-  font-size: 2.5rem;
+  padding-top: 30px;
+  font-size: 30px;
   font-weight: 400;
-  margin-bottom: 0;
+  
 }
 .hero1-subtitle {
-  font-size: 1rem;
+  font-size: 15px;
   font-weight: 200;
-  margin-top: 1rem;
+ 
 }
 .hero1-button {
   background-color: #393939;
   color: white;
   border: 1px solid #faf8f9;
-  margin-top: 5rem;
   padding: 10px;
   font-family: "Monserrat", sans-serif;
   font-size:20px;
   font-weight: 200;
   cursor: pointer;
   border-radius: 10px;
+  margin: 20px;
 }
 .hero1-button:hover {
   background-color: #cb376a;
@@ -378,12 +368,5 @@ body {
 
 .grid-3 {
   grid-template-columns: repeat(3, 1fr);
-}
-
-h1,
-h2{
-    font-weight: 300;
-    line-height: 1.2;
-    margin: 10px 0;
 }
 
